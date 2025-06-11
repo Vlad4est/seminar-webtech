@@ -7,6 +7,3 @@ Acest repository conține materiale și exemple studiate în cadrul seminarului 
 - **JavaScript** – sintaxă modernă (ES6+), manipulare DOM, programare asincronă (Promises, async/await)
 - **Express.js** – framework minimalist pentru Node.js, utilizat pentru crearea de API-uri RESTful
 - **React.js** – bibliotecă frontend pentru dezvoltarea de interfețe reactive și component-based
-
-## 📁 Structura proiectului
-
